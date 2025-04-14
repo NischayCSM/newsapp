@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Note: This app was made using news api, if you want to test the working of the app, please get your api keys from news api and insert it in .env.local file
 ## Available Scripts
 
