@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Note: For this app i used news api, so to access the app insert your news api key in the .env file.
 ## Available Scripts
 
 In the project directory, you can run:
