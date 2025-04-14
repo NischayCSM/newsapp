@@ -20,7 +20,7 @@ git clone https://github.com/your-username/react-news-app.git
 cd react-news-app
 npm install
 ```
-##Set up the API Key
+## Set up the API Key
 Create a .env file in the root directory and add your News API key like this:
 
 ```code
@@ -30,10 +30,10 @@ Then start the app:
 ```powershell
 npm run start
 ```
-##About the App
+## About the App
 This News App fetches the latest headlines across various categories and countries. You can easily customize the number of articles shown and the country you're fetching news from by adjusting props in App.js.
 
-##Features
+## Features
 ✅ Responsive Navigation Bar
 ✅ Category-based News browsing
 ✅ Clickable News Cards that open full articles
@@ -41,12 +41,12 @@ This News App fetches the latest headlines across various categories and countri
 ✅ Infinite Scroll
 ✅ Fully class-based components
 
-##Customization
+## Customization
 pageSize: Set the number of news articles per page in App.js
 country: Change the country by setting the country prop (default is us)
 Note: Some countries (like in for India) may not return results depending on your API plan or key restrictions.
 
-##Technologies Used
+## Technologies Used
 React (Class Components)
 JavaScript (ES6)
 Bootstrap (for styling)
