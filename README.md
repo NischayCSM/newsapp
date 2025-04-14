@@ -35,19 +35,29 @@ This News App fetches the latest headlines across various categories and countri
 
 ## Features
 ✅ Responsive Navigation Bar
+
 ✅ Category-based News browsing
+
 ✅ Clickable News Cards that open full articles
+
 ✅ Loading Spinner while data is being fetched
+
 ✅ Infinite Scroll
+
 ✅ Fully class-based components
 
 ## Customization
 pageSize: Set the number of news articles per page in App.js
+
 country: Change the country by setting the country prop (default is us)
+
 Note: Some countries (like in for India) may not return results depending on your API plan or key restrictions.
 
 ## Technologies Used
 React (Class Components)
+
 JavaScript (ES6)
+
 Bootstrap (for styling)
+
 NewsAPI.org 
