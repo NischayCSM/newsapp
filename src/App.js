@@ -11,7 +11,7 @@ import {
 
 export default class App extends Component {
   pageSize=5
-  country={this.country}
+  country="us"
   state={
     progress:0,
     apikey:process.env.REACT_APP_NEWS_API
